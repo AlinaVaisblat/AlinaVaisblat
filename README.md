@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Glad to have you visiting! 
 
+Below is one of the DataAnalysis projects I've done. 
+Feel free to skip detailed data overview and go straight to the graphs and conclusions.
 [BusinessAnalytics_(Cohorts,LTV,ROI)_YandexAfisha](https://nbviewer.jupyter.org/github/AlinaVaisblat/Test_public/blob/main/BusinessAnalytics%28Cohorts%2CLTV%2CROI%29_YandexAfisha_Github.ipynb)
