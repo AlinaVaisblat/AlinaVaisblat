@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://nbviewer.jupyter.org/github/AlinaVaisblat/Test_public/blob/main/BusinessAnalytics%28Cohorts%2CLTV%2CROI%29_YandexAfisha_Github.ipynb
+[BusinessAnalytics_(Cohorts,LTV,ROI_YandexAfisha](https://nbviewer.jupyter.org/github/AlinaVaisblat/Test_public/blob/main/BusinessAnalytics%28Cohorts%2CLTV%2CROI%29_YandexAfisha_Github.ipynb)
