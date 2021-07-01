@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 Glad to have you visiting! 
 
-Below is one of the Data Analytics projects I've done. 
+Below is one of the Data Analytics projects I've done for Yandex.Afisha (large online tickets booking service).  
 Feel free to skip detailed data overview at the top and go straight to the graphs and conclusions at the bottom.
-
 [BusinessAnalytics_(Cohorts,LTV,ROI)_YandexAfisha](https://nbviewer.jupyter.org/github/AlinaVaisblat/Test_public/blob/main/BusinessAnalytics%28Cohorts%2CLTV%2CROI%29_YandexAfisha_Github.ipynb)
