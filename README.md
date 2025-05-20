@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi and welcome 👋
 
 <!--
 **avigella/avigella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Glad to have you visiting! 
+Below youll find one of the Data Analytics projects I've done for Yandex.Afisha (large online tickets booking service).
 
-Below is one of the Data Analytics projects I've done for Yandex.Afisha (large online tickets booking service).  
-Feel free to skip detailed data overview at the top and go straight to the graphs and conclusions at the bottom.
-[BusinessAnalytics_(Cohorts,LTV,ROI)_YandexAfisha_2025](https://github.com/AlinaVaisblat/BusinessAnalytics_YandexAfisha_2025/blob/85c298d39f075540c2b50b5b003d23304cb6e5db/Project_5_(Yandex_Afisha)_(Business-Analytics)_2025.ipynb)
+It includes detailed analysis of the service's visits, orders and marketing (including cohorts retention, LTV and ROMI).
+
+Feel free to skip detailed  overview at the top and go straight to the graphs and conclusions at the bottom.
+
+For all the visualisations to be displayed properly please use the nbviewr link:
+https://nbviewer.org/github/AlinaVaisblat/BusinessAnalytics_YandexAfisha_2025BusinessAnalytics_YandexAfisha_2025_2/blob/main/Project_5_(Yandex_Afisha)_(Business-Analytics)_2025_2.ipynb#Project-description
