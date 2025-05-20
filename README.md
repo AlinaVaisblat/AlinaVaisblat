@@ -18,4 +18,4 @@ Glad to have you visiting!
 
 Below is one of the Data Analytics projects I've done for Yandex.Afisha (large online tickets booking service).  
 Feel free to skip detailed data overview at the top and go straight to the graphs and conclusions at the bottom.
-[BusinessAnalytics_(Cohorts,LTV,ROI)_YandexAfisha](https://nbviewer.jupyter.org/github/AlinaVaisblat/BusinessAnalytics_YandexAfisha/blob/main/BusinessAnalytics%28Cohorts%2CLTV%2CROI%29_YandexAfisha_Github%20%281%29.ipynb)
+[BusinessAnalytics_(Cohorts,LTV,ROI)_YandexAfisha_2025](https://github.com/AlinaVaisblat/BusinessAnalytics_YandexAfisha_2025/blob/85c298d39f075540c2b50b5b003d23304cb6e5db/Project_5_(Yandex_Afisha)_(Business-Analytics)_2025.ipynb)
