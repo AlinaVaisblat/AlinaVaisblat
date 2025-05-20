@@ -21,4 +21,4 @@ It includes detailed analysis of the service's visits, orders and marketing (inc
 Feel free to skip detailed  overview at the top and go straight to the graphs and conclusions at the bottom.
 
 For all the visualisations to be displayed properly please use the nbviewr link:
-https://nbviewer.org/github/AlinaVaisblat/BusinessAnalytics_YandexAfisha_2025BusinessAnalytics_YandexAfisha_2025_2/blob/main/Project_5_(Yandex_Afisha)_(Business-Analytics)_2025_2.ipynb#Project-description
+[https://nbviewer.org/github/AlinaVaisblat/BusinessAnalytics_YandexAfisha_2025/blob/14edc936f3b9b9e12ee495f977233c3d160981cb/Project_5_(Yandex_Afisha)_(Business-Analytics)_2025.ipynb]
